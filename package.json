@@ -1,0 +1,38 @@
+{
+  "name": "poppr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "^14.2.4",
+    "gsap": "^3.12.5",
+    "install": "^0.13.0",
+    "jquery": "npm:jQuery@^1.7.4",
+    "jQuery": "^1.7.4",
+    "jsdom": "^24.1.0",
+    "locomotive-scroll": "^5.0.0-beta.13",
+    "next": "14.2.4",
+    "next-scroll-to": "^1.0.8",
+    "npm": "^10.8.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-infinite-scroll": "^0.1.5",
+    "react-infinite-scroll-component": "^6.1.0",
+    "remixicon": "^4.3.0",
+    "scroll": "^3.0.1",
+    "split-type": "^0.3.4",
+    "swiper": "^11.1.4",
+    "textillate": "^0.4.1",
+    "trigger": "^1.1.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
